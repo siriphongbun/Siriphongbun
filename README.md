@@ -1,5 +1,8 @@
 # ⚙️ Siriphong bunchuea
 
+I am a software developer from Thailand studying Computer Engineering. 
+And practice coding every day to develop yourself to be better.
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
