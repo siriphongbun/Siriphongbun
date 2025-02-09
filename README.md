@@ -40,3 +40,11 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siriphongbun&show_icons=true&locale=en&layout=compact" alt="siriphongbun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siriphongbun&show_icons=true&locale=en" alt="siriphongbun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siriphongbun&" alt="siriphongbun" /></p>
